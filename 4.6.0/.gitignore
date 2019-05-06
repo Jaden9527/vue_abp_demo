@@ -1,0 +1,9 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# IDEs and editors
+.vs/
+obj/
+bin/
+aspnet-core/src/vue_abp_demo.Web.Host/App_Data/Logs/
+aspnet-core/src/vue_abp_demo.Web.Mvc/App_Data/Logs/
+aspnet-core/src/vue_abp_demo.Migrator/Logs/Logs.txt
